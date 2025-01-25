@@ -11,9 +11,8 @@ Background color changes instantly upon clicking a button.
 Simple, responsive, and interactive design.
 
 **Technologies Used:**
-
--React
--Tailwind CSS (for styling)
--JavaScript (ES6+)
--useState (React Hook)
+- React
+- Tailwind CSS (for styling)
+- JavaScript (ES6+)
+- useState (React Hook)
 
