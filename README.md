@@ -15,21 +15,3 @@ React
 Tailwind CSS (for styling)
 JavaScript (ES6+)
 useState (React Hook)
-Setup Instructions:
-
-Clone the repository:
-bash
-Copy
-git clone https://github.com/yourusername/color-changer-react-app.git
-Navigate to the project directory:
-bash
-Copy
-cd color-changer-react-app
-Install dependencies:
-bash
-Copy
-npm install
-Run the app:
-bash
-Copy
-npm start
